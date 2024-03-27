@@ -1,2 +1,2 @@
 # hangman
-A simple realization of popular child game Hangman
+A simple realization of the popular child game Hangman
